@@ -1,0 +1,17 @@
+.table{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 590px;
+}
+.table table th {
+    padding: 20px;
+}
+.table table td{
+    padding: 5px;
+}
+.table div{
+    margin: 50px;
+}

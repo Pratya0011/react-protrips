@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+  display: grid;
+  grid-template-columns: 0fr 0fr;
+  background-color: rgba(0, 0, 0, 0.575);
+  color: white;
+}
+.nav{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  width: 100px;
+  height: 790px;
+}
+.nav div{
+  margin: 10px;
+}
+.nav div i{
+  font-size: 30px;
+  text-decoration: none;
+  color: white;
+}
+.link{
+  width: 1435px;
+}
+
